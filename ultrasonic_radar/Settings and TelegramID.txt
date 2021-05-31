@@ -1,0 +1,5 @@
+C:\Users\ILYA\Desktop\Arduino\30.05\DreamTeam2_5923-main\ultrasonic_radar
+COM3
+843691724
+528061836
+476213596
